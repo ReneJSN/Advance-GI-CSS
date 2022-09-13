@@ -1,0 +1,29 @@
+.OddRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.EvenRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.black {
+    background-color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    /* margin: 0;
+    padding: 20px; */
+    height: 100px;
+    width: 100px;
+}
+.white {
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    color: white;
+    height: 100px;
+    width: 100px;
+}
